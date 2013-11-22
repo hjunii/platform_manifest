@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="github"
-           fetch="git://github.com/"
+           fetch="https://github.com/"
            review="https://review.slimroms.net:8443/"/>
 
   <default revision="refs/tags/android-4.4_r1.2"
